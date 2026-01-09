@@ -59,6 +59,16 @@ The router is composed of the following modules:
 
 ---
 
+## Simulation Waveforms
+
+### Packet routed to Output Port 1
+![Simulation Waveform – Port 1](waves/top_sim1.png)
+
+### Packet routed to Output Port 2
+![Simulation Waveform – Port 2](waves/top_sim2.png)
+
+---
+
 ## Tools Used
 - Verilog HDL
 - Icarus Verilog
